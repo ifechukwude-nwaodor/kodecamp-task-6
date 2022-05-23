@@ -1,0 +1,76 @@
+* {margin:0;
+   padding:0;
+   box-sizing: border-box;
+   }
+
+#about{
+      min-height: 60vh;
+}
+
+.about-img-box{
+      min-height: 50vh;
+}
+
+.about-content{
+      padding-top:100px;
+}
+
+#about-hero-section{
+      min-height:100vh;
+}
+.about-hero-content{
+      padding-top: 70px;
+}
+
+.list-image{
+    width:60px !important  
+}
+
+.service-img{
+      width:150px;
+      height:150px;
+      margin:auto;
+}
+
+#blog{
+      background-color: #341f08;
+
+}
+
+#contact-hero-section{
+      background:url("../images/cup-cake.jpg") no-repeat;
+      background-position:center;
+      background-size:cover;
+      min-height: 100vh;
+}
+
+.contact-content{
+      padding-top: 100px;
+}
+#contact{
+      background-color: rgb(33, 30, 30);
+}
+
+.button{
+      background-color: #341f08 !important;
+      border:hidden;
+      color:#fff !important
+}
+
+.feedback-img{
+      margin-top: -35px;
+}
+.logo-img{
+      font-size: 50px;
+      color: blue;
+}
+
+.insta{
+      font-size: 50px;
+      color:#d61818;
+}
+
+
+
+
+
