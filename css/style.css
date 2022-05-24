@@ -33,8 +33,11 @@
 }
 
 #blog{
-      background-color: #341f08;
+      background-color: rgba(255,228,164, 0.7)
 
+}
+#blog a{
+      text-decoration: none;
 }
 
 #contact-hero-section{
@@ -52,7 +55,7 @@
 }
 
 .button{
-      background-color: #341f08 !important;
+      background-color: #9d6427 !important;
       border:hidden;
       color:#fff !important
 }
@@ -69,8 +72,6 @@
       font-size: 50px;
       color:#d61818;
 }
-
-
 
 
 
